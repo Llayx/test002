@@ -1,4 +1,4 @@
-*.vs
-bin/
-obj/
+.vs/
+WPF_MusicPlayer/bin/
+WPF_MusicPlayer/obj/
 packages/
