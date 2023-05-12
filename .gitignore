@@ -1,4 +1,5 @@
 .vs/
-WPF_MusicPlayer/bin/
-WPF_MusicPlayer/obj/
+WPF_MusicPlayer/bin
+WPF_MusicPlayer/obj
 packages/
+.vsconfig
